@@ -75,12 +75,12 @@ Aplicación **web y móvil** orientada a la gestión académica y administrativa
 
 ## 🧩 Metodologías y Buenas Prácticas
 
-- ✅ Scrum (sprints de 2 semanas, daily meetings)
-- ✅ Control de versiones con Git y GitHub
-- ✅ Manejo de ambientes (dev, qa, staging, main)
-- ✅ Convenciones de commits en inglés
-- ✅ Documentación técnica y funcional
-- ✅ Arquitecturas limpias y modulares
+- Scrum (sprints de 2 semanas, daily meetings)
+- Control de versiones con Git y GitHub
+- Manejo de ambientes (dev, qa, staging, main)
+- Convenciones de commits en inglés
+- Documentación técnica y funcional
+- Arquitecturas limpias y modulares
 
 ---
 
