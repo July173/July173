@@ -89,7 +89,6 @@ Aplicación **web y móvil** orientada a la gestión académica y administrativa
 - Profundización en **.NET MAUI**
 - Buenas prácticas de arquitectura frontend
 - Testing básico (unitario e integración)
-- Mejora continua en **inglés técnico**
 - Mejora continua en inglés técnico
 
 ---
