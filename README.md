@@ -1,14 +1,14 @@
-# 👩‍💻 July Daniela Ramos Peña
+# July Daniela Ramos Peña
 
  **Dea Fullstack de Software**  
-📍 Neiva – Huila, Colombia  
+ Neiva – Huila, Colombia  
 
 ![GitHub followers](https://img.shields.io/github/followers/July173?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/July173?style=social)
 
 ---
 
-## 🧩 Sobre mí
+##  Sobre mí
 
 Tecnóloga en Análisis y Desarrollo de Software con experiencia en desarrollo de aplicaciones
 empresariales en .NET. Actualmente me desempeño como Desarrolladora Backend Semi Junior en
@@ -21,9 +21,9 @@ Tambien he participado en proyectos académicos completos que incluyen **documen
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
-### 💻 Frontend
+###  Frontend
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
@@ -32,7 +32,7 @@ Tambien he participado en proyectos académicos completos que incluyen **documen
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 
-### ⚙️ Backend
+### Backend
 ![C#](https://img.shields.io/badge/C%23-.NET-purple?logo=csharp)
 ![.NET](https://img.shields.io/badge/.NET-MAUI-512BD4?logo=dotnet)
 ![Python](https://img.shields.io/badge/Python-Django-green?logo=python)
@@ -40,12 +40,12 @@ Tambien he participado en proyectos académicos completos que incluyen **documen
 ![Java](https://img.shields.io/badge/Java-red?logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
 
-### 🗄️ Base de Datos
+###  Base de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 
 
-### 🔧 Herramientas
+###  Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite)
@@ -55,7 +55,7 @@ Tambien he participado en proyectos académicos completos que incluyen **documen
 
 ---
 
-## 📂 Proyectos Destacados
+##  Proyectos Destacados
 
 ### 🔹 Autogestión SENA
 Aplicación **web y móvil** orientada a la gestión académica y administrativa de aprendices.
@@ -76,7 +76,7 @@ Aplicación **web y móvil** orientada a la gestión académica y administrativa
 
 ---
 
-## 🧩 Metodologías y Buenas Prácticas
+##  Metodologías y Buenas Prácticas
 
 - Scrum (sprints de 2 semanas, daily meetings)
 - Control de versiones con Git y GitHub
@@ -87,7 +87,7 @@ Aplicación **web y móvil** orientada a la gestión académica y administrativa
 
 ---
 
-## 🌱 Actualmente aprendiendo
+##  Actualmente aprendiendo
 
 - Profundización en **.NET MAUI**
 - Buenas prácticas de arquitectura frontend
@@ -96,7 +96,7 @@ Aplicación **web y móvil** orientada a la gestión académica y administrativa
 
 ---
 
-## 🤝 Habilidades Blandas
+##  Habilidades Blandas
 
 - Trabajo en equipo  
 - Comunicación efectiva  
@@ -106,13 +106,13 @@ Aplicación **web y móvil** orientada a la gestión académica y administrativa
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
-📧 **Correo:** july345ra@gmail.com  
+ **Correo:** july345ra@gmail.com  
 
-🔗 **LinkedIn:**  
-👉 https://www.linkedin.com/in/july-daniela-ramos-pe%C3%B1a-94659b340/ 
+ **LinkedIn:**  
+ https://www.linkedin.com/in/july-daniela-ramos-pe%C3%B1a-94659b340/ 
 
 ---
 
-✨ *Gracias por visitar mi perfil. Siempre abierta a aprender, mejorar y aportar en nuevos proyectos.*  
+ *Gracias por visitar mi perfil. Siempre abierta a aprender, mejorar y aportar en nuevos proyectos.*  
