@@ -1,6 +1,6 @@
 # 👩‍💻 July Daniela Ramos Peña
 
- **Aprendiz en Desarrollo Fullstack de Software**  
+ **Dea Fullstack de Software**  
 📍 Neiva – Huila, Colombia  
 
 ![GitHub followers](https://img.shields.io/github/followers/July173?style=social)
@@ -10,11 +10,14 @@
 
 ## 🧩 Sobre mí
 
-Soy aprendiz en **Análisis y Desarrollo de Software** en el **SENA** y estudiante de **Licenciatura en Lenguas Extranjeras con énfasis en Inglés**.  
-Me apasiona el desarrollo de software, especialmente el **frontend con React**, pero también tengo experiencia en **backend, bases de datos y control de versiones**.
+Tecnóloga en Análisis y Desarrollo de Software con experiencia en desarrollo de aplicaciones
+empresariales en .NET. Actualmente me desempeño como Desarrolladora Backend Semi Junior en
+Aurotech, participando en el desarrollo de softwares SaaS utilizando C#, .NET, Blazor y SQL Server. 
+Cuento con conocimientos en React, Azure DevOps, Git,
+APIs REST y metodologías ágiles. Me caracterizo por el aprendizaje continuo, la resolución de
+problemas y el trabajo en equipo.
 
-Me caracterizo por el **trabajo en equipo**, la **responsabilidad**, el **liderazgo** y las **ganas constantes de aprender**.  
-He participado en proyectos académicos completos que incluyen **documentación técnica, arquitectura, despliegue, control de ambientes y trabajo con metodologías ágiles**.
+Tambien he participado en proyectos académicos completos que incluyen **documentación técnica, arquitectura, despliegue, control de ambientes y trabajo con metodologías ágiles**.
 
 ---
 
